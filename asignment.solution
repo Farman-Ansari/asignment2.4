@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tech Course Portal
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; }
+    .card { border: 1px solid #ccc; padding: 16px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Welcome to Web Basics</h1>
+    <p>Learn semantic markup and debugging.</p>
+    <ul>
+      <li>HTML Structure
+      <li>CSS Layouts</li>
+    </ul>
+    <p><strong><em>Improperly nested emphasis</strong></em></p>
+    <img src="course-banner.png">
+    <form>
+      <label>Student Email</label>
+      <input type="email" placeholder="you@example.com">
+      <button>Submit</button>
+    </form>
+  </div>
+</body>
